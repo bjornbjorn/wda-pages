@@ -6,7 +6,7 @@ taxonomy:
 
 ## General & Email Settings
 
-![Simpe Registration Settings](/img/simple-registration/simple-registration-settings-fs8.png)
+![Simpe Registration Settings](simple-registration-settings-fs8.png)
 
 ### Quick Registration Member Group
 

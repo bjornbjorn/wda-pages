@@ -8,7 +8,7 @@ In this section of the settings you specify which fields should be required when
 
 In ExpressionEngine, by default, all these fields are required. If not filled out, the user will get an error message. Simple Registration gives you the freedom to **remove any of these fields** from your signup form.
 
-![Required Fields](/img/simple-registration/simple-registration-required-fields-fs8.png)
+![Required Fields](simple-registration-required-fields-fs8.png)
 
 >>> Note, that since EE requires all of these fields to have values in the database, Simple Registration will populate the disabled fields with user input from other fields. Or, in the case of password for example, auto-generate. This will enable you to have a signup field with only an email address input for instance.
 

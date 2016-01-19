@@ -14,4 +14,4 @@ That's it!
 
 After installing SEO Lite all your entries will have an additional **Publish Tab** called "SEO Lite" (note that you can rename this in your config).
 
-![SEO Lite's Publish Tab](/img/seo-lite/seo-lite-publish-tab-fs8.png)
+![SEO Lite's Publish Tab](seo-lite-publish-tab-fs8.png)

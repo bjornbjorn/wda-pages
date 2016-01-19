@@ -8,4 +8,4 @@ After saving the [Required Fields settings](/simple-registration/configuration/r
 
 The code here is generated using the current member registration settings in ExpressionEngine and Simple Registration (required fields settings).
 
-![Form HTML code](/img/simple-registration/simple-registration-form-html-code-fs8.png)
+![Form HTML code](simple-registration-form-html-code-fs8.png)

@@ -10,7 +10,7 @@ Most of the settings are set in the CP, but there are also some configuration op
 
 SEO Lite has a settings panel in the Control Panel. Navigate to the list of addons and click SEO Lite to access the settings.
 
-![SEO Lite settings](/img/seo-lite/seo-lite-settings-fs8.png)
+![SEO Lite settings](seo-lite-settings-fs8.png)
 
 Here you'll specify the default values for SEO Lite. Most of these are pretty self-explanatory.
 
