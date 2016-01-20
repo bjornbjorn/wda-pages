@@ -4,6 +4,8 @@ taxonomy:
     category: docs
 ---
 
+![Signup Keys](signup-keys-fs8.png)
+
 Signup Keys is a pretty versatile feature. Simply put; you can generate as many signup keys you’d like and link each to a member group. This enables you to assign specific member groups to users on signup.
 
 >>> Signup keys are used by adding an element named "signup_key" to your form.
