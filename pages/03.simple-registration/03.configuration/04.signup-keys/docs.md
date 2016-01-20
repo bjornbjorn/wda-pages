@@ -51,5 +51,5 @@ Then in EE's Members -> Preferences set "Default Member Group Assigned to New Me
 
 ### A note about the "Trigger" event
     
-This option decides when the member group assignment should happen. As a general rule; if you have activation enabled you should use the trigger "Activation". This means that members will be assinged to the selected member group once they activate their membership. If you do not use activation, it should be set to "Signup". Note that Simple Registration will default to the value you should use when you add a new key.
+This option decides when the member group assignment should happen. As a general rule; if you have activation enabled you should use the trigger "Activation". This means that members will be assinged to the selected member group once they activate their membership. If you do not use activation, it should be set to "Signup". **Note that Simple Registration will default to the value you should use when you add a new key**.
     
