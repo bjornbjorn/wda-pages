@@ -24,6 +24,12 @@ A honeypot field can be used alone, but typically it will be used in **conjuncti
 
 If you call it something not used by EE / Simple Registration though you can use it alone.
 
+Note, that if you don't want to set this as a global setting in the config file, it's also available as a [parameter](/simple-registration/tags#expsimple_registrationform) in the {exp:simple_registration:form} tag:
+
+```html
+{exp:simple_registration:form honeypot="email"}
+```
+
 ## Input name rewrites
 
 This setting is basically an array of "rewrites" telling Simple Registration that, in the registration form, the value for "username" can be found in "any-new-field-name" etc. You can rewrite as many input names as you want.

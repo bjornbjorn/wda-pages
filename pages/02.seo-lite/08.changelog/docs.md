@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-The dates in this changelog use international date format: YYYY-MM-DD (ISO8601)
+>>> The dates in this changelog use international date format: YYYY-MM-DD (ISO8601)
 
 #### 1.5.1 - 2016-01-14
 

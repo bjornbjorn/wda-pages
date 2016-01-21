@@ -13,6 +13,8 @@ Unlike native EE, you can also have the user specify the standard EE profile fie
 
 You use this by specifying the fields you want to allow using the [allow_fields](/simple-registration/tags#expsimple_registrationform) parameter in the form tag:
 
+>>>>> In order to use "allow_fields" you need to set an encryption key in your **system/user/config/config.php** file. If you don't you'll get an error message saying "In order to use the encryption class requires that you set an encryption key in your config file."
+
 ```html
 {exp:simple_registration:form allow_fields="url|location|bday|bio"}
 

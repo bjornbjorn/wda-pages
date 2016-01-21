@@ -6,6 +6,6 @@ taxonomy:
 
 ## Control Panel
 
-Clicking "Simple Registration" in the module list takes you to the settings panel for Simple Registration.
+Clicking "Simple Registration" in the module list takes you to the [settings panel](/simple-registration/configuration/settings) for Simple Registration.
 
 
