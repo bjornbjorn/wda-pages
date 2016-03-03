@@ -6,6 +6,10 @@ taxonomy:
 
 >>> The dates in this changelog use international date format: YYYY-MM-DD (ISO8601)
 
+#### 1.5.2 - 2016-03-03
+
+* Fixed [bug](https://github.com/bjornbjorn/SEO-Lite/issues/26) where content would not be deleted from exp_seolite_content when deleting an entry
+
 #### 1.5.1 - 2016-01-14
 
 * EE3 release, requires 3.1.0. Note that extra tags support for PhotoFrame and Assets have been removed (these field types are currently not available for EE3).

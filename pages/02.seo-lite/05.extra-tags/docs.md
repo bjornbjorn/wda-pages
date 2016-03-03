@@ -21,7 +21,8 @@ $config['seolite_extra'] = array(
     '1' => array(                               // news
         'desc' => array(
             'field_id' => 3,
-            'field_type' => 'text',
+            'field_type' => 'text',             // text will always be converted to plaintext
+            'max_length' => 157,                // this will cut the text after 157 chars and add ' ...' 
         ),
         'image' => array(
             'field_id' => 45,
@@ -64,6 +65,8 @@ Then, for each channel, we specify the same extra fields; in this case **desc** 
 The config array above will pull the contents from field_id 29 and expect it to be text.
 
 There are currently support for two fieldtypes: **text** and **file** (native EE File). The text will just output the plain text, while file will output the full url to the file.
+
+If you don't want to output **all of the text** (default) you can use ```max_length``` to restrict the length. Note also that 'text' is the type of the content you want returned here, so in reality you can specify any field type that stores data in the exp_channel_data table (ie. wygwam, editor, etc.)
 
 In the [SEO Lite template](/seo-lite/configuration#template) you can use the extra tags like this (more [examples here](/seo-lite/configuration#template)):
 
