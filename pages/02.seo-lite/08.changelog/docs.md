@@ -6,6 +6,10 @@ taxonomy:
 
 >>> The dates in this changelog use international date format: YYYY-MM-DD (ISO8601)
 
+#### 1.5.3 - 2016-05-10
+
+* Added [PHP 7 compatibility](https://github.com/bjornbjorn/SEO-Lite/issues/27).
+
 #### 1.5.2 - 2016-03-03
 
 * Fixed [bug](https://github.com/bjornbjorn/SEO-Lite/issues/26) where content would not be deleted from exp_seolite_content when deleting an entry
