@@ -36,6 +36,7 @@ You can fetch by segment or entry_id:
 * **use_last_segment**: y/n – use this if you want to fetch metadata based on the last segment (Note; this will work w/pagination as well)
 * **category_url_title**: optional, use if you wish to fetch a category (title will be category title, description will be category description -- or defaults)
 * **site_id**: optional, if you are getting content from another site then the current use this
+* **channel**: optional, the short name of the channel you wish to pull from (helpful if you have channel entries with identical url_titles in different channels)
 * **default_title**: Override the default title in the template
 * **default_keywords**: Override the default keywords in the template
 * **default_description**: Override the default description in the template
