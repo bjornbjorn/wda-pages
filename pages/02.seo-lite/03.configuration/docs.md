@@ -96,6 +96,6 @@ In **/system/user/config/config.php** you can specify these settings for SEO Lit
 
 `$config['seolite_tab_title'] = 'SEO';` - specifices the title of the Publish Tab (default: SEO Lite)
 
-`$config['seolite_show_keywords_field'] = FALSE;` - set this to FALSE to hide they keywords field from the Publish Tab.
+`$config['seolite_show_keywords_field'] = 'n';` - set this to 'n' to hide they keywords field from the Publish Tab.
 
 `$config['seolite_extra'] = array();` - Pull in additional info for SEO Lite (see [Extra Tags](/seo-lite/extra-tags) for more info)
