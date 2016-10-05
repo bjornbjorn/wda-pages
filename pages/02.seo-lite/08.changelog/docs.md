@@ -6,6 +6,10 @@ taxonomy:
 
 >>> The dates in this changelog use international date format: YYYY-MM-DD (ISO8601)
 
+#### 1.5.4 - 2016-10-05
+
+* PHP 5.3 compatibility fix
+
 #### 1.5.3 - 2016-05-10
 
 * Added [PHP 7 compatibility](https://github.com/bjornbjorn/SEO-Lite/issues/27).
