@@ -6,6 +6,10 @@ taxonomy:
 
 >>> The dates in this changelog use international date format: YYYY-MM-DD (ISO8601)
 
+#### 1.6.1 - 2017-01-31
+
+* Bugfix: Password / Confirm Password could not be enabled / disabled in settings. Note; the settings were still used so upgrading from EE2 worked, but people could not _change_ the settings.
+
 #### 1.6.0 - 2016-01-21
 
 >>>> This release contains some **deprecated functionality**.

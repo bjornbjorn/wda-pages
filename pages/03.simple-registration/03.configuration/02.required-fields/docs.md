@@ -28,6 +28,14 @@ The user will enter an e-mail address (this is the only required input for Simpl
 
 If disabled the user won't have to confirm the e-mail address by inputting it a second time (everyone uses auto-fill these days anyway so this seems like a relic from the past)
 
+### Password
+
+If disabled the password will be auto-generated for the user. Note; since the password is since encrypted before it is stored in the database you need to use the feature to email the user the generated password for the account.
+
+### Confirm Password
+
+If you disable this the user does not have to confirm his password. So, a single password input is enough. Here's to getting it right the first time:-)
+
 ### Terms of Service
 
 Disable this to have the user auto-accept the terms of service (ie no checkbox in the form).
