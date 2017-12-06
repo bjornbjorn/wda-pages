@@ -6,6 +6,10 @@ taxonomy:
 
 >>> The dates in this changelog use international date format: YYYY-MM-DD (ISO8601)
 
+#### 1.6.3 - 2017-12-06
+
+* ExpressionEngine4 compatability release. Please note that *Core profile fields* have been removed in EE4 (url, location, bday_y, bday_m, bday_d, occupation, interests, msn_im, yahoo_im, aol_im, icq, bio) so if you're still using those please migrate the fields to [Custom Member Fields](/simple-registration/custom-member-fields).
+
 #### 1.6.2 - 2017-07-18
 
 * PHP7 compatibility fix

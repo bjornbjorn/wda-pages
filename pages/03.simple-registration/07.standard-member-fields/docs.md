@@ -4,6 +4,8 @@ taxonomy:
     category: docs
 ---
 
+>>>> The core profile fields have been **removed in EE4** - please migrate to using [Custom Member Fields]((/simple-registration/custom-member-fields) instead.
+
 Unlike native EE, you can also have the user specify the standard EE profile fields on signup. These include;
 
 * Personal website
