@@ -6,6 +6,10 @@ taxonomy:
 
 >>> The dates in this changelog use international date format: YYYY-MM-DD (ISO8601)
 
+#### 1.5.5 - 2018-04-18
+
+* Bugfix: Fixed [extra tags](/seo-lite/extra-tags) functionality on EE4
+
 #### 1.5.4 - 2016-10-05
 
 * PHP 5.3 compatibility fix
