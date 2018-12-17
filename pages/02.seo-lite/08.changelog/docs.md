@@ -6,6 +6,10 @@ taxonomy:
 
 >>> The dates in this changelog use international date format: YYYY-MM-DD (ISO8601)
 
+#### 1.5.6 - 2018-12-17
+
+* Bugfix: Fixed issue with [extra tags](/seo-lite/extra-tags) on sites that had been upgraded from EE3 or lower.
+
 #### 1.5.5 - 2018-04-18
 
 * Bugfix: Fixed [extra tags](/seo-lite/extra-tags) functionality on EE4
